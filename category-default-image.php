@@ -9,7 +9,7 @@
  * Author:            Roshan Nagaju
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       wc-google-map
+ * Text Domain:       category-default-image
  */
 
 // Exit if accessed directly
